@@ -1,0 +1,15 @@
+*.cbproj
+*.local
+*.res
+*.dll
+*.obj
+*.exe
+*.QuadEquation.exe - Ярлык
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.map
+*.tds
+/__history/*.*
+/win32/*
